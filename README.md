@@ -2,7 +2,13 @@
 
 A lightweight, responsive sidebar + toggle button demo built with **HTML, CSS, and vanilla JavaScript**.
 
-## Demo / Preview
+## Preview
+## Preview
+<image src="./assets/sidebar1.png"></image>
+<image src="./assets/sidebar2.png"></image>
+
+## Demo
+[Demo](assets/sidebar.mp4)
 
 - Open `index.html` in a browser.
 
@@ -26,13 +32,6 @@ A lightweight, responsive sidebar + toggle button demo built with **HTML, CSS, a
 - `script.js` listens for a click on the toggle button.
 - When clicked, it toggles the `active` class on the sidebar element.
 - `style.css` changes the sidebar position from `left: -250px` to `left: 0` when `.sidebar.active` is present.
-
-## Preview
-<image src="./assets/sidebar1.png"></image>
-<image src="./assets/sidebar2.png"></image>
-
-## Demo
-[Demo](assets/sidebar.mp4)
 
 ## File Structure
 
